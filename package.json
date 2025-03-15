@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"npx @tailwindcss/cli -i ./src/input.css -o ./dist/style.css --watch"
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/style.css --watch"
   },
   "repository": {
     "type": "git",
@@ -16,9 +16,9 @@
     "url": "https://github.com/Nikhilkumar987/LearnTailwind/issues"
   },
   "homepage": "https://github.com/Nikhilkumar987/LearnTailwind#readme",
-  "description": "",
   "dependencies": {
-    "@tailwindcss/cli": "^4.0.10",
-    "tailwindcss": "^4.0.10"
-  }
+    "@tailwindcss/cli": "^4.0.14",
+    "tailwindcss": "^4.0.14"
+  },
+  "description": ""
 }
